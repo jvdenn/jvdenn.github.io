@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Launched"
+title: "Jadens Page"
 date: 2021-09-21
 ---
 
