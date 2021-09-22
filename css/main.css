@@ -84,3 +84,8 @@ span
 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+img {
+    width: 10em;
+    height: 10em;
+}
