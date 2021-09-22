@@ -6,9 +6,39 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+.j {
+    width: 150px;
+    font-size: 45px;
+    margin-right: 200px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    position: relative;
+    overflow: hidden;
+  }
+  .j:before {
+    content: '';
+    position: absolute;
+    left: 0.5em;
+    height: 100%;
+    width: 150%;
+    background: #FFF;
+    transition: left 1s;
+  }
+  
+  .j:hover:before {
+  left: 100%;
+  }
+
+h6 {
+    display: inline;
+    font-size: 24px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin-left: 4%;
+}
 p 
 {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
 }
@@ -28,7 +58,8 @@ nav ul li, footer ul li
     margin-right: 20px;
 }
 a {
-    text-decoration: none;color: #999;
+    text-decoration: none;
+    color: #999;
 }
 a:hover {
     text-decoration: underline;
