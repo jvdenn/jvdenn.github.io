@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jadens Page"
+title: "Jadens Post"
 date: 2021-09-21
 ---
 
