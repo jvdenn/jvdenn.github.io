@@ -55,6 +55,7 @@ nav ul, footer ul {
 nav ul li, footer ul li 
 {
     display: inline;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-right: 20px;
 }
 a {
