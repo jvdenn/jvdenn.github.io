@@ -3,6 +3,8 @@ body {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-image: url(https://jvdenn.github.com/images/leone-venter-VieM9BdZKFo-unsplash.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
 
 }
 h1 {
